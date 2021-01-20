@@ -37,6 +37,32 @@
      <string>Show all coffee</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="add_b">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>310</y>
+      <width>96</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Добавить</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="edit_b">
+    <property name="geometry">
+     <rect>
+      <x>450</x>
+      <y>350</y>
+      <width>96</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Изменить</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -44,7 +70,7 @@
      <x>0</x>
      <y>0</y>
      <width>550</width>
-     <height>21</height>
+     <height>25</height>
     </rect>
    </property>
   </widget>
